@@ -1,6 +1,6 @@
 {
   "name": "regex-awesome",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "regex util",
   "type": "module",
   "main": "index.js",
