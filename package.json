@@ -1,0 +1,24 @@
+{
+  "name": "regex-awesome",
+  "version": "1.0.0",
+  "description": "regex util",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thanh-Bao/regex-awesome.git"
+  },
+  "keywords": [
+    "regex",
+    "utility"
+  ],
+  "author": "thanh.bao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thanh-Bao/regex-awesome/issues"
+  },
+  "homepage": "https://github.com/Thanh-Bao/regex-awesome#readme"
+}
