@@ -1,4 +1,8 @@
-# regex-awesome
+# Install
+
+```
+npm i regex-awesome
+```
 
 | function   | input data type | output data type | quantity of parameter |
 |:----------:|:---------------:|:----------------:|:---------------------:|
